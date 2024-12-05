@@ -11,7 +11,7 @@ assignees: ''
 **Name**: 
 **Designation**: 
 **Null Profile URL**:
-**Add any other relevent link you feel can help with your candidacy**
+**Add any other relevant link you feel can help with your candidacy**
 
 ## Anything you want to say about your candidacy
 
