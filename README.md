@@ -22,46 +22,13 @@ The null Global Committee is a volunteer-led group focused on guiding the future
  
 > Note: We also aim to elect null Office Bearers from within this committee based on their work and commitment and the value they add to committee. Existing office bearers - https://null.community/pages/11-office-bearers
 
-## Eligibility for Voting
+## Eligibility for Candidacy and Voting
 1. Community members who are registered at null.community since or before September 30th 2023 are eligible voters.
 
-## Eligibility for Candidates running for the committee
-`<TBD>`
+## Election Process
 
-## Election Procedure
-1. A GitHub issue has been created to gather a list of questions: [Issue Link](https://github.com/null-open-security-community/null-Global-Committee-Call-For-Questions/issues/1).
-2. Community members are requested to comment with questions they would like potential candidates to answer.
-3. The top-voted questions will be curated into a final questionnaire.
-4. Candidates running for the null committee will need to respond to these questions in a new GitHub issue.
-5. Candidates can refer to the [Sample Format](https://github.com/null-open-security-community/null-Global-Committee-Call-For-Questions/issues/2) for creating their GitHub issue. 
-```
-# Issue Tittle
-[Candidate Name] - Responses to Community Questions
-
-## Introduction
-Candidate Name: [Your Name]
-Introduction: Provide a brief introduction about yourself, your background, and why you are running for this position (optional).
-
-
-## Responses to Questions
-Instructions for Candidates:
-- Please respond to each question in a separate comment.
-- Ensure your answers are clear and concise.
-- Include references to your past experience where relevant(Optional).
-
-Question 1: // As a GH issue comment
-[Copy the question here]
-
-Answer:
-[Your answer to the question]
-
-
-## Closing Remarks (Optional)
-Use this section to provide any final thoughts or messages to the community.
-
-Note: Please ensure each response is posted as a comment within the issue to maintain clarity and organization.
-
-## Social Media handels (Optional)
-```
-6. Answers will be reviewed and the candidates will be elected based on the max number of votes a candidates gets based on their answers.
+1. An interested candidate would need to create an Issue in this repository
+2. Use the template "Candidacy Nomination for Null Election"
+3. Ensure all the Questions and details are provided.
+4. Once all details are in place, candidates can use the issue to promote their candidacy
 
