@@ -25,10 +25,21 @@ The null Global Committee is a volunteer-led group focused on guiding the future
 ## Eligibility for Candidacy and Voting
 1. Community members who are registered at null.community since or before September 30th 2023 are eligible voters.
 
-## Election Process
+## Election Nomination Process
 
 1. An interested candidate would need to create an Issue in this repository
 2. Use the template "Candidacy Nomination for Null Election"
 3. Ensure all the Questions and details are provided.
 4. Once all details are in place, candidates can use the issue to promote their candidacy
+
+## Voting Phase
+1. All eligible Voters will be informed via email with instructions on how to vote.
+
+## Important Dates
+1. 5 Dec 2024 : Nomination Open
+2. 15 Jan 2025 : Nomination close
+3. 16 Jan 2025 : Voting Start
+4. 15 Feb 2025 : Voting close
+5. 1 Mar 2025 : Result Announcement
+
 
