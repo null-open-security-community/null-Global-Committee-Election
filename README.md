@@ -37,9 +37,9 @@ The null Global Committee is a volunteer-led group focused on guiding the future
 
 ## Important Dates
 1. 5 Dec 2024 : Nomination Open
-2. 31 Jan 2025 : Nomination close
-3. 1 Feb 2025 : Voting Start
-4. 17 Feb 2025 : Voting close
-5. 15 Mar 2025 : Result Announcement
+2. Post Nullcon Conference(Date Yet To announced): Nomination close
+3. Date Yet To announced : Voting Start
+4. Date Yet To announced : Voting close
+5. Date Yet To announced : Result Announcement
 
 
